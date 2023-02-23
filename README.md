@@ -1,6 +1,6 @@
 # CHESS JAVA
 
-[chess.gif](./chess-gif)
+ ![chess](./chess.gif)
 
 ## `A game made completely in Java (with the IDLE Eclipse).`
 
