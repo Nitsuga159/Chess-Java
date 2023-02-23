@@ -1,6 +1,6 @@
 # CHESS JAVA
 
-## `A game made completely in Java (with the IDE Eclipse).`
+## `A game made completely in Java (with the IDLE Eclipse).`
 
 <br />
 
